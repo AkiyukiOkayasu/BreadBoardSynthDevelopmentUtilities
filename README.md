@@ -5,3 +5,7 @@
 Pull the Eurorack's power bus cable out to the BreadBoard's power rail.  
 Only split power lines in the middle can be used.  
 ![](/EurorackPowerForBreadboard/PowerForBB.png)
+
+## Pod
+
+![](/PodForBreadboard/PodForBB.png)
